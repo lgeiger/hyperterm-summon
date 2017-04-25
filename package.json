@@ -26,7 +26,8 @@
     "hyperterm-register-shortcut": "^1.2.0"
   },
   "devDependencies": {
-    "jest": "^19.0.2"
+    "jest": "^19.0.2",
+    "spectron": "^3.6.2"
   },
   "peerDependencies": {
     "electron": "^1.6.2"
